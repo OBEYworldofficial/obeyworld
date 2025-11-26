@@ -1,0 +1,19 @@
+{
+  "name": "OBEY WORLD Token List",
+  "timestamp": "2025-11-26T20:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xC4e1f5758F3Bb0E86c4777e6B4C7AFA47Ab3cd92",
+      "name": "OBEY WORLD",
+      "symbol": "OBEY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/OBEYworldofficial/obeyworld/main/logo/obey.png"
+    }
+  ]
+}
